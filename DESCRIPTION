@@ -1,0 +1,14 @@
+Package: RSugar
+Type: Package
+Title: R Client for RawSugar
+Version: 1.0.0
+Author: Mike Travers
+Maintainer: Mike Travers <mtravers@parkerici.org>
+Description: Simple calls to get data out of RSugar
+License: Apache 2
+Imports: httr, jsonlite, rlist
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Suggests: testthat
